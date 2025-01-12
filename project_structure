@@ -1,5 +1,9 @@
 my_project/
 ├── pyproject.toml
+├── data/
+│   └── erp_data/
+├── notebooks/
+│   └── erp_analysis.ipynb
 ├── src/
 │   └── my_project/
 │       ├── __init__.py

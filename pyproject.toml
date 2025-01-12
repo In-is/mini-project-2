@@ -14,11 +14,11 @@ dependencies = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/mini_project_2"]
+packages = ["src/my_project"]
 
 [tool.hatch.build]
 only-packages = true
-artifacts = ["src/mini_project_2/py.typed"]
+artifacts = ["src/my_project/py.typed"]
 
 [project.optional-dependencies]
 dev = [
