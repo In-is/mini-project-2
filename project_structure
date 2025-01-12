@@ -1,0 +1,8 @@
+my_project/
+├── pyproject.toml
+├── src/
+│   └── my_project/
+│       ├── __init__.py
+│       └── main.py
+└── tests/
+    └── __init__.py 
